@@ -16,5 +16,8 @@ Clone this repository, and run.
 ```
 $> cd PATH-TO-GLYPHILECTRON
 $> npm install && npm start
+```
+
+## License
 
 MIT
