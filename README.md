@@ -1,7 +1,7 @@
 Glyphilectron
 ==============
 
-> Find [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons) right from the menubar/tray.
+> Find over 250 [Bootstrap's Glyphicons](http://getbootstrap.com/components/#glyphicons) right from the menubar/tray.
 
 ## How To Use
 
