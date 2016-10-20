@@ -1,7 +1,7 @@
 Glyphilectron
 ==============
 
-> Find Bootstrap Glyphicons right from the menubar/tray.
+> Find [Bootstrap Glyphicons](http://getbootstrap.com/components/#glyphicons) right from the menubar/tray.
 
 ## How To Use
 
@@ -9,7 +9,7 @@ Install it using : `npm install glyphilectron`
 
 *Or*
 
-Clone this repository, and run
+Clone this repository, and run.
 
 ```
 $> cd PATH-TO-GLYPHILECTRON
